@@ -5,7 +5,7 @@ A simple Python script that generates a random password and copies it to your cl
 ## Requirements
  
 ```bash
-pip install pyperclip
+pip3 install pyperclip
 ```
  
 ## Usage
